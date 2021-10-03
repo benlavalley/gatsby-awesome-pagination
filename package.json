@@ -1,6 +1,6 @@
 {
   "name": "gatsby-awesome-pagination",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "An opinionated, more awesome approach to pagination in Gatsby",
   "files": [
     "lib"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination.git"
+    "url": "git+https://github.com/benlavalley/gatsby-awesome-pagination.git"
   },
   "bugs": {
-    "url": "https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination/issues"
+    "url": "https://github.com/benlavalley/gatsby-awesome-pagination/issues"
   },
-  "homepage": "https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination#readme",
+  "homepage": "https://github.com/benlavalley/gatsby-awesome-pagination#readme",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
